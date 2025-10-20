@@ -8,9 +8,5 @@ export const GameOptionsConfig: GameOptionType[] = [
     {
         key: "501",
         value: "501"
-    },
-    {
-        key: "custom",
-        value: "custom"
     }
 ];
