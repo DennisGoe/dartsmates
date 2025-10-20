@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+* {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.glow {
+    box-shadow: 0 0 4px rgba(0, 225, 255, 0.6),
+    0 0 8px rgba(0, 225, 255, 0.4),
+    0 0 12px rgba(0, 225, 255, 0.2);
+}
